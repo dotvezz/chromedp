@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/chromedp/chromedp/runner"
+	"github.com/dotvezz/chromedp/runner"
 )
 
 var (
